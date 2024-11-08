@@ -67,7 +67,7 @@ To set up and run Purple Maps on your local system, ensure you have the followin
 
 1. Clone the repo
    ```bash
-   git clone [https://github.com/github_username/repo_name.git]
+   git clone [https://github.com/Dev-Elo-1505/purple-maps-fe.git](https://github.com/Dev-Elo-1505/purple-maps-fe.git)
    ```
 2. Navigate to the Project Directory
  ```bash
