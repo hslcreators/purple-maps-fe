@@ -4,7 +4,7 @@
   <h1 align="center">Purple Maps</h1>
 
   <p align="center">
-    Purple Maps is a navigation app designed to help Covenant University students easily find and navigate to various locations on campus. 
+    Purple Maps is a navigation platform designed to help Covenant University students easily find and navigate to various locations on campus. 
   </p>
 </div>
 
@@ -24,7 +24,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -34,56 +33,56 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Purple Maps is built to enhance the campus experience by providing detailed navigation and information about key places like college buildings, halls e.t.c at Covenant University. It was built with React.Js.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Purple Maps is designed to simplify campus navigation for Covenant University students by providing easy access to detailed directions and information about key locations, such as college buildings and halls. Built using React.js, the app enhances the student experience by ensuring they can quickly and efficiently find their way around campus. Created by a dedicated team of students from the Hebron StartUp Lab (HSL) Creators' Community, Purple Maps aims to improve the daily experience of students by simplifying how they navigate the university's various facilities.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To set up and run Purple Maps on your local system, ensure you have the following installed:
+1. Node.js: The runtime environment for executing JavaScript code outside of a web browser.
+ - Download and install Node.js.
+ - Verify the installation by running:
+   ```bash
+   node -v
+   ```
+2. Git: A version control system for cloning and managing the repository.
+ - Download and install Git.
+ - Verify the installation by running:
+   ```bash
+   git --version
+   ```
+3. Package Manager (npm or Yarn): Used to install project dependencies.
+ - npm is included with Node.js. For Yarn, install it by running:
+   ```bash
+   npm install --global yarn
+   ```
+ - Verify Yarn installation by running:
+   ```bash
+   yarn -v
+   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
+1. Clone the repo
+   ```bash
+   git clone [https://github.com/github_username/repo_name.git]
    ```
-3. Install NPM packages
-   ```sh
+2. Navigate to the Project Directory
+ ```bash
+cd purple-maps
+```
+3. Install Dependencies
+   ```bash
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+4.To run the project, use the following command:
+```bash
+npm run dev
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -104,7 +103,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
