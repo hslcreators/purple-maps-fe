@@ -1,12 +1,10 @@
 <div align="center">
   
 
-  <h3 align="center">Purple Maps</h3>
+  <h1 align="center">Purple Maps</h1>
 
   <p align="center">
     Purple Maps is a navigation app designed to help Covenant University students easily find and navigate to various locations on campus. 
-    <br />
-    
   </p>
 </div>
 
@@ -18,9 +16,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -30,11 +25,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
