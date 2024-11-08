@@ -67,20 +67,20 @@ To set up and run Purple Maps on your local system, ensure you have the followin
 
 1. Clone the repo
    ```bash
-   git clone [https://github.com/Dev-Elo-1505/purple-maps-fe.git](https://github.com/Dev-Elo-1505/purple-maps-fe.git)
+   git clone https://github.com/hslcreators/purple-maps-fe.git
    ```
 2. Navigate to the Project Directory
- ```bash
-cd purple-maps
-```
+  ```bash
+  cd purple-maps
+  ```
 3. Install Dependencies
    ```bash
    npm install
    ```
 4.To run the project, use the following command:
-```bash
-npm run dev
-```
+  ```bash
+  npm run dev
+  ```
 
 
 
