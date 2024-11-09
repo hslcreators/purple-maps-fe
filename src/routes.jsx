@@ -9,13 +9,21 @@ const router = createBrowserRouter([
   {
     path : "/",
     element: (
-        <Home />
+      <Suspense fallback = {
+        <div>Loading...</div>
+      }>
+      <Home />
+    </Suspense>
     )
   },
   {
     path : "/help",
     element: (
-        <Help />
+        <Suspense fallback = {
+          <div>Loading...</div>
+        }>
+          <Help />
+        </Suspense>
     )
   },
 ])
